@@ -1,14 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
-  
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
-  
- <p> All the best my dear friend....</p>
-
+<h1><font color='red'> Welcome Nagarjuna<font></h1>
+<h1>You have successfully automated the following steps</h1>
+<h2>1.cloning the git repo</h2>
+<h2>2.Maven Build</h2>
+<h2>3.Code Review By Sonar</h2>
+<h2>4.Artifact upload to Nexus</h2>
+<h2>5.Deployed the war file to Tomcat server</h2>
 </body>
 </html>
